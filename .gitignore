@@ -1,0 +1,17 @@
+# Ignore node modules
+node_modules/
+
+# Ignore build folder
+build/
+
+# Ignore Mac system files
+__MACOSX/
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore shrinkwrap if not needed
+npm-shrinkwrap.json
+node_modules
+node_modules
